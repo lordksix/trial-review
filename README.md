@@ -31,7 +31,7 @@
 # 📖 [Trial Review] <a name="about-project"></a>
 
 **Trial Review** is a project to showcase code review process.
-It uses a <a href="https://github.com/lordksix/project-3">Project-3</a> of @lordksix 
+It uses the repo [Project-3](https://github.com/lordksix/project-3) of [@lordksix](https://github.com/lordksix)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
